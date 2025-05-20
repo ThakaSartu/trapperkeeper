@@ -3,6 +3,19 @@ layout: default
 mathjax: true
 ---
 
+
+# Live: AnsibleFest 2025 Keynote - Driving transformative change in the AI Era @nasa-jpl @redhatofficial
+[Interactive labs  Solve problems with Command Line Assistant](https://www.redhat.com/en/interactive-labs/Solve-problems-with-Command-Line-Assistant)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OiQDFjmWGUc?si=XoiDu5j8hXBuuvir" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+@blackgirlscode ~ [WinNT](https://copy.sh/v86/?profile=windowsnt4) [LINUX MAN PAGES ONLINE](http://man.he.net/)
+[FREEEMAiLOUTLooK](https://outlook.live.com/mail/0/) - kinda volitile in this era without a cellphone - rashard @whitehouse @noaa  
+[Apache Archive Distribution Directory](https://archive.apache.org/dist/httpd/) [rtr](https://ricothakarashard.github.io/)
+[Mayor_Bass TrelloCard](https://trello.com/c/usCKzmZI/28-https-mayorlacitygov-about-mayor-karen-bass)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ovsJvBttAJQ?si=Q6H1Z67-PbPHsliC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [The Original Kings of Comedy - LOL NETWORK UPLOAD](https://youtu.be/dnM65xTD6Uw) [WorkEthikJOKE](https://youtu.be/dnM65xTD6Uw?t=896)
 [REDDiT - How do I know which Jekyll version is used by a github repo just cloned? /r/jekyll /u/igul77](https://www.reddit.com/r/Jekyll/comments/faaa84/how_do_i_know_which_jekyll_version_is_used_by_a/?rdt=61924)
 
